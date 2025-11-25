@@ -1,5 +1,7 @@
 .env
 *.zip
-desktop.ini
 *.json
+desktop.ini
+!podarki.json
+emotion.json
 images/
