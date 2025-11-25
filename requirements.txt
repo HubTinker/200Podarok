@@ -1,3 +1,5 @@
 streamlit
+pandas
 selenium
 webdriver-manager
+beautifulsoup4
